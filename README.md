@@ -1,2 +1,2 @@
 # hpi_analysis
-Forecasting the home price index
+Forecasting FHFA's home price index
